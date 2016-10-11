@@ -158,7 +158,7 @@ hr.small {
     background: url(../img/bg.jpg) no-repeat center center scroll;
     -webkit-background-size: contain;
     -moz-background-size: contain;
-    background-size: contain;
+    background-size: 100% 100%;
     -o-background-size: contain;
 }
 
